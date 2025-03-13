@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Dattanand U D! 👋
 
-<!--
-**Dattaaanand/Dattaaanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Tech Enthusiast** passionate about learning and exploring new and emerging technologies. My main focus lies in the **Development** domain, specifically **Web App Development**. I enjoy building scalable, efficient, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham, Amrritapuri**.
+
+- 💡 Always eager to learn and explore new technologies in the **Web Development Ecosystem**.
+
+- 💻 Skilled in **Next.js, React, TypeScript, JavaScript, Python, Java, MySQL, PostgreSQL**.
+
+- 🎯 Passionate about **Frontend Development, UI/UX, and Full-Stack Web Development**.
+
+---
+
+### 📊 GitHub Stats
+
+![Dattanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattaaanand&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattaaanand&layout=compact&theme=radical)
+
+
+
+### 📫 Connect with Me:
+dxttanand@gmail.com
+
