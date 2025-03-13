@@ -22,5 +22,5 @@ I am a **Tech Enthusiast** passionate about learning and exploring new and emerg
 
 
 ### 📫 Connect with Me:
-dxttanand@gmail.com
+This is my Email : **dxttanand@gmail.com**
 
