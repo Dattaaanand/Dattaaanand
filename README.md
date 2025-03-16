@@ -1,4 +1,4 @@
-## Hi there, I'm Dattanand U D! 👋
+# Hi there, I'm Dattanand U D! 👋
 
 I am a **Tech Enthusiast** passionate about learning and exploring new and emerging technologies. My main focus lies in the **Development** domain, specifically **Web App Development**. I enjoy building scalable, efficient, and user-friendly web applications.
 
@@ -16,9 +16,9 @@ I am a **Tech Enthusiast** passionate about learning and exploring new and emerg
 
 ### 📊 GitHub Stats
 
-![Dattanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattaaanand&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattaaanand&layout=compact&theme=radical)
-
+![Dattaaanand's Stats](https://github-readme-stats.vercel.app/api?username=Dattaaanand&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Dattaaanand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dattaaanand&theme=highcontrast&hide_border=true)
+![Dattaaanand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattaaanand&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 
 ### 📫 Connect with Me:
