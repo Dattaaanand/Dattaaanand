@@ -6,11 +6,9 @@ I am a **Tech Enthusiast** passionate about learning and exploring new and emerg
 
 - 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham, Amrritapuri**.
 
-- 💡 Always eager to learn and explore new technologies in the **Web Development Ecosystem**.
+- 💡 Always eager to learn and explore new technologies.
 
 - 💻 Skilled in **Next.js, React, TypeScript, JavaScript, Python, Java, MySQL, PostgreSQL**.
-
-- 🎯 Passionate about **Frontend Development, UI/UX, and Full-Stack Web Development**.
 
 ---
 
