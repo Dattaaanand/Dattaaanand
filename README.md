@@ -21,5 +21,6 @@ I am a **Tech Enthusiast** passionate about learning and exploring new and emerg
 
 ### 📫 Connect with Me:
 This is my Email : **dxttanand@gmail.com**
-![LinkedIn](https://www.linkedin.com/in/dattanand-u-d-b276632b5/)
+
+[LinkedIn](https://www.linkedin.com/in/dattanand-u-d-b276632b5/)
 
